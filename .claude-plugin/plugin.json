@@ -1,0 +1,16 @@
+{
+  "author": {
+    "name": "MetriBeacon"
+  },
+  "description": "Monitoring and alerts",
+  "displayName": "MetriBeacon",
+  "documentationUrl": "https://metribeacon.com/documentation/mcp/plugins",
+  "homepage": "https://metribeacon.com/documentation/mcp/plugins",
+  "icon": "./assets/logo.png",
+  "license": "MIT",
+  "name": "metribeacon",
+  "privacyPolicyUrl": "https://metribeacon.com/datenschutz",
+  "supportUrl": "https://metribeacon.com/contact",
+  "termsOfServiceUrl": "https://metribeacon.com/nutzungsbedingungen",
+  "version": "0.1.0+616be2abc635"
+}
